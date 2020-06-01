@@ -15,7 +15,13 @@
     "authors": [
         {
             "name": "rastislav.brocka",
-            "email": "rastislv.brocka@petitpress.sk"
+            "email": "rasto5300@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "RastislavBr\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
 }
