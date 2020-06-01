@@ -1,5 +1,5 @@
 {
-    "name": "RastislavBr/nws-messenger",
+    "name": "rastislavbr/nws-messenger",
     "type": "library",
     "require": {
         "php": "^7.2",
