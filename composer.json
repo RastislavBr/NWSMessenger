@@ -23,5 +23,6 @@
             "RastislavBr\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "description": "Symfony messenger"
 }
